@@ -17,7 +17,7 @@ import { mostrarDobro } from './lacoDeRepeticao/Map.js'
 import { mostrarHelloWorld } from './lacoDeRepeticao/While.js'
 import { mostrarTabuada1 } from './lacoDeRepeticao/While2.js'
 
-import { somar, subtrair, multiplicar, dividir, potencia, raizQuadrada, restoDivisao } from './operadoresAritmeticos/operadoresAritmeticos.js'
+import { somar, subtrair, multiplicar, dividir, potencia, raizQuadrada, restoDivisao } from './operadoresAritmeticos/OpAritmeticos.js'
 
 import { verificarE } from "./operadoresLogicos/OpLogicoE.js"
 import { verificarNao } from "./operadoresLogicos/OpLogicoNot.js"
